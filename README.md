@@ -1,1 +1,1 @@
-# learning-demo
+# my-project
